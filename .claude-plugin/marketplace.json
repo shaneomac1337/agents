@@ -1990,6 +1990,34 @@
       ]
     },
     {
+      "name": "powershell-development",
+      "source": "./plugins/powershell-development",
+      "description": "PowerShell scripting with modern practices, cross-platform compatibility, advanced automation, and production-ready development for PowerShell 5.1 through 7+",
+      "version": "1.0.0",
+      "author": {
+        "name": "Martin",
+        "url": "https://github.com/shaneomac1337"
+      },
+      "homepage": "https://github.com/shaneomac1337/agents",
+      "repository": "https://github.com/shaneomac1337/agents",
+      "license": "MIT",
+      "keywords": [
+        "powershell",
+        "windows",
+        "automation",
+        "scripting",
+        "cross-platform",
+        "powershell-7"
+      ],
+      "category": "languages",
+      "strict": false,
+      "commands": [],
+      "agents": [
+        "./agents/powershell-pro.md"
+      ],
+      "skills": []
+    },
+    {
       "name": "developer-essentials",
       "source": "./plugins/developer-essentials",
       "description": "Essential developer skills including Git workflows, SQL optimization, error handling, code review, E2E testing, authentication, debugging, and monorepo management",
